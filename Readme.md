@@ -12,7 +12,7 @@ All of the contents presented during Workshop from `Day 1 to Day 3` are here.
 
 - Alberto Milo Book - *I Highly Recommend You To Read That.*
 - | Day 1 UI |
-  |---|  
+  |:---:|  
     |Profile page|
     |App Bar widget|
     |Bottom Modal Sheet|
