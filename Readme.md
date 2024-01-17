@@ -1,7 +1,8 @@
-<p align="center">
-# Flutter UI Workshop Presented By Legainaha
-![Legainaha](Legainaha_logo.png)
+<p align="Center">
+    <h1>Flutter UI Workshop Presented By Legainaha</h1>
+    <img src="Legainaha_logo.png" alt="Legainaha Logo!">
 </p>
+
 #
 ![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
 
