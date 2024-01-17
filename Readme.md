@@ -1,4 +1,4 @@
-<p align="Center">
+<p align="center">
     <h1>Flutter UI Workshop Presented By Legainaha</h1>
     <img src="Legainaha_logo.png" alt="Legainaha Logo!">
 </p>
