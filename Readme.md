@@ -1,6 +1,7 @@
-
+<p align="center">
 # Flutter UI Workshop Presented By Legainaha
 ![Legainaha](Legainaha_logo.png)
+</p>
 #
 ![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
 
