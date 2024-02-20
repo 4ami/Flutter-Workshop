@@ -20,6 +20,11 @@ All of the contents presented during Workshop from `Day 1 to Day 3` are here.
     |Bottom Modal Sheet|
     |Layout Challange Solution|
 - Day 2 UI:
+  |:---:|  
+    |Page View|
+    |Random Image Match|
+    |Challenge 1|
+    |Challenge 2|
 - Day 3 UI:
 
 
